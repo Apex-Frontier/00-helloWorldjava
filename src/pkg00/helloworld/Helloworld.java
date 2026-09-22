@@ -11,7 +11,9 @@ package pkg00.helloworld;
 public class Helloworld {
 
     public static void main(String[] args) {
-        System.out.println("hello world by JB on github");
+        System.out.println("ligne 1");
+        System.out.println("ligne 2");
     }
+    
     
 }
